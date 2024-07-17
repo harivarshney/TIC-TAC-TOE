@@ -1,4 +1,3 @@
-Sure! Here is the updated README file with the "Screenshots" section added to the table of contents:
 
 ---
 
