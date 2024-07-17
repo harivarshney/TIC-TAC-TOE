@@ -13,7 +13,6 @@ Welcome to the Tic Tac Toe game! This is a simple 2-player game built using HTML
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -57,15 +56,6 @@ Here are some screenshots of the Tic Tac Toe game in action:
 
 ![Screenshot 2024-07-10 003321](https://github.com/harivarshney/TIC-TAC-TOE/assets/152633609/ba5218ad-644a-4080-b982-a4259723addc)
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
